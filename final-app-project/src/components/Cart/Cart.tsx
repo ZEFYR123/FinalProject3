@@ -2,7 +2,7 @@ import React from 'react';
 import { Route, Link } from 'react-router-dom';
 import menuData from '../menu.json';
 import style from './Cart.module.css';
-function Cart() {
+function Cart() {``
     
 
 

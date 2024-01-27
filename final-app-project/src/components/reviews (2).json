@@ -1,0 +1,19 @@
+
+[
+    {
+        "id": 1,
+        "author": "Иван Иванов",
+        "text": "Отличная пицца! Вкусно и быстро доставили.",
+        "rating": 5,
+        "image":[
+            "images/Above+Avalon+Neil+Cybart.PNG"
+        ]
+    },
+    {
+        "id": 2,
+        "author": "Анна Петрова",
+        "text": "Приятное место, но цены высокие.",
+        "rating": 4,
+        "image" :["images/Picture1.PNG"]
+    }
+]
